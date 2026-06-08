@@ -3,7 +3,7 @@
 **Contributor:** EthosX, Inc. (Delaware C-corp; Y Combinator Summer 2022 batch; backed by Y Combinator, Franklin Templeton, and strategic investors)
 **Status:** External contributor; champion to be confirmed via SIG review
 **Primary SIG:** Financial Workflows & Composability
-**Secondary SIGs:** Token Standards / Asset Standards; Daml Language & Developer Tooling
+**Secondary SIGs:** Token Standards / Asset Standards; DeFi Protocols & Liquidity
 **Date:** June, 2026
 **License (proposal text):** CC0-1.0
 **License (software deliverables):** Apache-2.0
