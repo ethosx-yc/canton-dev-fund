@@ -4,6 +4,7 @@
 **Status:** External contributor; champion to be confirmed via SIG review
 **Primary SIG:** DeFi Protocols & Liquidity
 **Secondary SIGs:** Financial Workflows & Composability; Token Standards / Asset Standards
+**Industry collaboration:** EthosX is working with Infosys on this project. Bharat Gupta, Senior Principal at Infosys Consulting and leading Digital Assets within the Financial Services and Insurance practice, advises EthosX in individual capacity.
 **Date:** June, 2026
 **License (proposal text):** CC0-1.0
 **License (software deliverables):** Apache-2.0
