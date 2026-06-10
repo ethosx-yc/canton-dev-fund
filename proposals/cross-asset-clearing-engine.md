@@ -2,8 +2,8 @@
 
 **Contributor:** EthosX, Inc. (Delaware C-corp; Y Combinator Summer 2022 batch; backed by Y Combinator, Franklin Templeton, and strategic investors)
 **Status:** External contributor; champion to be confirmed via SIG review
-**Primary SIG:** Financial Workflows & Composability
-**Secondary SIGs:** Token Standards / Asset Standards; DeFi Protocols & Liquidity
+**Primary SIG:** DeFi Protocols & Liquidity
+**Secondary SIGs:** Financial Workflows & Composability; Token Standards / Asset Standards
 **Date:** June, 2026
 **License (proposal text):** CC0-1.0
 **License (software deliverables):** Apache-2.0
@@ -186,7 +186,7 @@ Nine months: July 15, 2026 to April 21, 2027. Funding is denominated in CC, fixe
 - Option instrument templates: European and American, including digital and knock-out/knock-in variants
 - Factory contracts for on-chain option deployment
 - Architecture documentation including PFMI mapping
-- Ecosystem engagement: attendance at Financial Workflows & Composability SIG sessions
+- Ecosystem engagement: attendance at DeFi Protocols & Liquidity SIG sessions (primary) and Financial Workflows & Composability SIG sessions (secondary)
 
 **Acceptance criteria:**
 
@@ -196,7 +196,7 @@ Nine months: July 15, 2026 to April 21, 2027. Funding is denominated in CC, fixe
 - Integration test against Canton testnet passing for at least one full novation and margin cycle (clearing-member onboarding, trade novation, margin calculation, collateral deposit)
 - Test coverage greater than or equal to 80% across delivered modules (line coverage, measured via standard DAML coverage tooling)
 - Architecture documentation published in the same repository
-- Documented attendance at at least two Financial Workflows & Composability SIG sessions during the M0-to-M1 window, verifiable through SIG meeting minutes or chair attestation
+- Documented attendance at at least two SIG sessions across the proposal's primary or secondary SIGs (DeFi Protocols & Liquidity; Financial Workflows & Composability; Token Standards / Asset Standards) during the M0-to-M1 window, verifiable through SIG meeting minutes or chair attestation
 
 ---
 
@@ -332,7 +332,7 @@ EthosX will publish these signals in real time as they occur. Production adoptio
 
 **Ecosystem engagement during the grant period.** EthosX commits to a three-step engagement ramp across the milestones, calibrated to the maturity of the engine at each stage:
 
-- **During M0 to M1 (foundation):** publish design documentation and architecture decision records in the open-source repository; attend Financial Workflows & Composability SIG sessions and engage with other relevant SIGs to gather technical feedback on the engine design.
+- **During M0 to M1 (foundation):** publish design documentation and architecture decision records in the open-source repository; attend DeFi Protocols & Liquidity SIG sessions (primary) and Financial Workflows & Composability SIG sessions (secondary), and engage with other relevant SIGs to gather technical feedback on the engine design.
 - **During M1 to M2 (risk and lifecycle):** host at least one public office-hours session demonstrating the engine architecture and a live walkthrough of the M1 and M2 deliverables on Canton testnet, once the engine has enough working surface area to support a substantive demonstration.
 - **During M2 to M3 (multi-asset extension):** host a public AMA or technical walkthrough on the completed engine, and present at at least one Canton ecosystem forum.
 
@@ -359,7 +359,7 @@ These activities surface design feedback from Canton-active institutional partic
 
 **Advisors:**
 
-- **Bharat Gupta.** Senior Principal, Financial Services & Insurance at Infosys Consulting. 20+ years across capital markets, digital assets, and digital transformation for tier-1 financial institutions. Alumnus of IIT Delhi.
+- **Bharat Gupta.** Senior Principal at Infosys Consulting, leading Digital Assets within the Financial Services and Insurance practice. 20+ years across capital markets, digital assets, and digital transformation for tier-1 financial institutions. Alumnus of IIT Delhi.
 - **Jean-Luc Savignac.** 30+ years in global capital markets. Ex-Head of Equity and Index Global Sales at Eurex. Ex-Global COO Fixed Income Currencies and Commodities / COO Americas at Newedge Group (Société Générale).
 - **Jose (Pepe) Ruiz.** 25+ years building and running derivative trading teams for major global financial institutions. Led North America trading desk at ED&F Man Capital. Led Emerging Markets trading desk at Crédit Agricole CIB.
 - **Nikhil Talwar.** 15+ years of traditional derivatives trading, risk management, and portfolio management. Led volatility trading, OTC trading, and prop trading at LedgerPrime. Built and led the Digital Assets desk at Chicago Trading Company.
