@@ -120,7 +120,7 @@ The Tech and Ops Committee evaluates completion on value to the ecosystem, not d
 - Milestone 3 (Attestation, specialized default management, production-path readiness): 387,000 CC (30%) upon final release and acceptance
 
 ### Budget Rationale
-The request funds founder and core-team engineering time across three build roles at below-market rates, with no new-hire costs and no external-audit cost in Phase 1 (audit is a Phase 2 deliverable with its own budget). Role emphasis tracks the milestone difficulty ramp: M1 is DAML-heavy (the on-chain templates, interfaces, and tests); M2 adds risk-state-machine work; M3 is full-team, with the quant and risk lead on the ported off-ledger margin service and the off-chain and infrastructure work on the attestation system, while the most specialized net-new on-chain work (auction, juniorization, hedging) runs in parallel. The figure is comparable to accepted reference-implementation grants of similar scope and is not padded.
+The request funds engineering time across three build roles, with no external-audit cost in Phase 1 (audit is a Phase 2 deliverable with its own budget). Role emphasis tracks the milestone difficulty ramp: M1 is DAML-heavy (the on-chain templates, interfaces, and tests); M2 adds risk-state-machine work; M3 is full-team, with the quant and risk lead on the ported off-ledger margin service and the off-chain and infrastructure work on the attestation system, while the most specialized net-new on-chain work (auction, juniorization, hedging) runs in parallel. The figure is comparable to accepted reference-implementation grants of similar scope.
 
 ### Volatility Stipulation
 The project duration is greater than six months. The grant is denominated in fixed Canton Coin and will require a re-evaluation at the six-month mark (approximately January 15, 2027), affecting the M2 and M3 tranches. EthosX accepts this term.
@@ -135,13 +135,13 @@ Upon delivery, EthosX will collaborate with the Foundation on: announcement coor
 
 ## Team and Delivery Capability
 
-The nine-month plan is delivered by the existing EthosX team, without dependence on new hires.
+The build roles for the nine-month plan are led by the EthosX team.
 
 - **Deepanshu, Co-founder & CEO.** Ex-Vice President, Global Derivatives Clearing (Interest Rate Swaps), JP Morgan Chase. Covers off-chain and infrastructure delivery (the attestation signer, indexer and keeper, Canton integration). Alumnus of IIT Kharagpur and IIM Calcutta.
 - **Smit Patoliya, Co-founder & CTO.** International buy-side quant trader at Two Roads (Options Trading). Leads the DAML and Canton build (templates, interfaces, tests). Alumnus of IIT Madras.
 - **Amit Kumar, Head of Research.** Ex-Quantitative Strategist at Quadeye Securities. Owns the quant and risk work (the ported SPAN and QuantLib margin service). Alumnus of IIT Delhi.
 
-Internal security review runs at each milestone. The off-ledger margin engine being a port rather than a rebuild, and Phase 1 being scoped to options end-to-end, are what make this scope deliverable at this team size.
+Internal security review runs at each milestone. The off-ledger margin engine being a port rather than a rebuild, and Phase 1 being scoped to options end-to-end, are what keep this scope realistic.
 
 **Advisors:** Bharat Gupta (Senior Principal at Infosys Consulting, leading Digital Assets within the Financial Services and Insurance practice; advises in an individual capacity); Jean-Luc Savignac (ex-Head of Equity and Index Global Sales at Eurex; ex-Global COO FICC and COO Americas at Newedge Group, Societe Generale); Jose (Pepe) Ruiz (led North America trading at ED&F Man Capital and the Emerging Markets desk at Credit Agricole CIB); Nikhil Talwar (led volatility, OTC, and prop trading at LedgerPrime; built and led the Digital Assets desk at Chicago Trading Company). Infosys is a prospective infrastructure collaborator for the reference deployment, distinct from and out of scope for the open-source library this grant funds.
 
